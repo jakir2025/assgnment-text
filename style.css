@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.heading{
+    background-color: chartreuse;
+    height: 583px;
+    width: 450px;
+    margin: auto;
+    
+}
+.reg{
+  margin-left: 30px;
+  padding-top: 20px;
+}
+.Full{
+    margin-left: 30px;
+    margin-top: 10px;
+    padding: 6px;
+    padding-right: 200px;
+}
+.email{
+    margin-left: 30px;
+    margin-top: 6px;
+    padding: 6px;
+    padding-right: 200px;
+}
+.password{
+    margin-left: 30px;
+    margin-top: 6px;
+    padding: 6px;
+    padding-right: 200px;
+}
+.password1{
+    margin-left: 30px;
+    margin-top: 6px;
+    padding: 6px;
+    padding-right: 200px;
+}
+.Date1{
+   margin: 6px;
+   margin-left: 30px;
+}
+.gender{
+    margin: 6px;
+    margin-left: 30px;
+}
+.Country1{
+    margin: 6px;
+    margin-left: 30px;
+}
+.cdt{
+    margin: 6px;
+    margin-left: 30px;
+}
+.all1{
+    margin: 6px;
+    margin-left: 30px;
+}
+.submit1{
+    margin: 6px;
+    margin-left: 30px;
+    padding: 8px;
+    background-color: blue;
+}
